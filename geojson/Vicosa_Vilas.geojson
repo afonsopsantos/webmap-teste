@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Vicosa_Vilas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"NOME":"S�o Jos� do Triunfo","GEOCODIGO":"317130325","LAT":-20.7483,"LONG":-42.8247,"MUNICIPIO":"Vi�osa","GEOCODIGOM":"3171303","LEGENDA":"Vilas (Setembro 2026)"},"geometry":{"type":"Point","coordinates":[-42.82472196,-20.74833297]}},
+{"type":"Feature","properties":{"NOME":"Cachoeira de Santa Cruz","GEOCODIGO":"317130315","LAT":-20.7478,"LONG":-42.7814,"MUNICIPIO":"Vi�osa","GEOCODIGOM":"3171303","LEGENDA":"Vilas (Setembro 2026)"},"geometry":{"type":"Point","coordinates":[-42.78138912,-20.74777803]}},
+{"type":"Feature","properties":{"NOME":"Silvestre","GEOCODIGO":"317130310","LAT":-20.7217,"LONG":-42.8675,"MUNICIPIO":"Vi�osa","GEOCODIGOM":"3171303","LEGENDA":"Vilas (Setembro 2026)"},"geometry":{"type":"Point","coordinates":[-42.86750004,-20.72166696]}}
+]
+}
